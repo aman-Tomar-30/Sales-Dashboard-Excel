@@ -1,6 +1,6 @@
 # 📊 Sales Dashboard in Excel  
 
-![Sales Dashboard Preview](https://github.com/aman-Tomar-30/Sales-Dashboard-Excel/blob/main/76fb2e28-cc4b-4bc2-8141-9b37bb4b96bb.png)
+![Sales Dashboard Preview](https://github.com/aman-Tomar-30/Sales-Dashboard-Excel/blob/main/preview.png)
 
 ## 💼 Project Overview  
 This project is an **interactive and dynamic Sales Dashboard** built entirely in **Microsoft Excel**, designed to visualize and analyze sales performance across multiple regions and sales executives.  
@@ -40,7 +40,7 @@ Interactive slicers and buttons powered by VBA macros for smooth navigation and 
 
 Here’s what the dashboard looks like 👇  
 
-![Excel Sales Dashboard Screenshot](https://github.com/aman-Tomar-30/Sales-Dashboard-Excel/blob/main/76fb2e28-cc4b-4bc2-8141-9b37bb4b96bb.png)
+![Excel Sales Dashboard Screenshot](https://github.com/aman-Tomar-30/Sales-Dashboard-Excel/blob/main/preview.png)
 
 ---
 
